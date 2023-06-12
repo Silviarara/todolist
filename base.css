@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --col-yellow: #FFF8D3;
+  --col-orange: #FFDECB;
+  --col-pink: #FFDECB;
+  --col-green: #72B3B5;
+  --col-blue: #B0D0DD;
+  --col-purple: #D6D5E5;
+  --max-width: 1024px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--col-blue);
+}
